@@ -17,3 +17,4 @@ file 6: Neural Network.py --> In this file the follow-up neural network is defin
 
 file 7: Reviews.txt --> This file contains the reviews used in the research. It contains 21000 reviews from which 10500 reviews are fake.
 
+This file is made by student of the Erasmus Univeristy Rotterdam. 
