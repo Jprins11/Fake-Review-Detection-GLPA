@@ -17,4 +17,6 @@ file 6: Neural Network.py --> In this file the follow-up neural network is defin
 
 file 7: Reviews.txt --> This file contains the reviews used in the research. It contains 21000 reviews from which 10500 reviews are fake.
 
+file 8: OutlierDetection.java --> This file does a analysis on the counts of the outliers. This file aims to find patterns in the outliers for optimizing the GLPA.
+
 This file is made by students of the Erasmus Univeristy Rotterdam. 
